@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+@tailwind utilities;
+
+@layer components{
+  .cont{
+    background-color: black;
+    height: 100px;
+
+  }
+}
